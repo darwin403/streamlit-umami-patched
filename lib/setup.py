@@ -106,7 +106,7 @@ else:
     long_description = ""
 
 setup(
-    name="streamlit-umami-patched",
+    name="streamlit",
     version=VERSION,
     description="A faster way to build and share data apps",
     long_description=long_description,
